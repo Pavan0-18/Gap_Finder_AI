@@ -3,6 +3,8 @@ export interface User {
   email: string;
   full_name: string;
   role: string;
+  interests?: string[];
+  level?: string;
   created_at: string;
 }
 

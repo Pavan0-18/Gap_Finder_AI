@@ -20,6 +20,8 @@ import { GapReportPage } from "./pages/GapReportPage";
 import { RevisionPlannerPage } from "./pages/RevisionPlannerPage";
 import { TutorPage } from "./pages/TutorPage";
 import { AnalyticsPage } from "./pages/AnalyticsPage";
+import { PortfolioPage } from "./pages/PortfolioPage";
+import { ProfileSettingsPage } from "./pages/ProfileSettingsPage";
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -55,13 +57,16 @@ export function App() {
     <QueryClientProvider client={queryClient}>
       <BrowserRouter>
         <Routes>
-          {/* Public Auth Routes */}
+          {/* Public Routes */}
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
+          <Route path="/portfolio" element={<PortfolioPage />} />
 
           {/* Protected Application Routes */}
           <Route element={<ProtectedLayout />}>
             <Route path="/" element={<Dashboard />} />
+            <Route path="/profile" element={<ProfileSettingsPage />} />
+            <Route path="/developer" element={<PortfolioPage />} />
             <Route path="/subjects/:subjectId" element={<SubjectWorkspace />} />
             <Route path="/subjects/:subjectId/materials" element={<MaterialsPage />} />
             <Route path="/subjects/:subjectId/topics" element={<TopicsPage />} />

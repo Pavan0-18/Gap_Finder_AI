@@ -13,6 +13,8 @@ import {
   BarChart3,
   BookOpen,
   Sparkles,
+  User,
+  Award,
 } from "lucide-react";
 
 export const Sidebar: React.FC = () => {
@@ -22,6 +24,8 @@ export const Sidebar: React.FC = () => {
 
   const baseLinks = [
     { to: "/", label: "All Subjects", icon: LayoutDashboard },
+    { to: "/profile", label: "Profile & Interests", icon: User },
+    { to: "/developer", label: "About Developer", icon: Award },
   ];
 
   const curriculumLinks = subjectId

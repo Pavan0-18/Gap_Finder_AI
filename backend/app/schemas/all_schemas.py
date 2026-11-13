@@ -24,7 +24,21 @@ class UserResponse(BaseModel):
     email: str
     full_name: str
     role: str
+    interests: Optional[List[str]] = []
+    level: Optional[str] = "Intermediate"
     created_at: datetime
+
+class UserProfileUpdate(BaseModel):
+    full_name: Optional[str] = None
+    interests: Optional[List[str]] = None
+    level: Optional[str] = None
+
+class UserPasswordChange(BaseModel):
+    current_password: str
+    new_password: str
+
+class ForgotPasswordRequest(BaseModel):
+    email: str
 
 # ----------------- Subject Schemas -----------------
 class SubjectCreate(BaseModel):

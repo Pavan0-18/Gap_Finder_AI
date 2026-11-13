@@ -145,13 +145,15 @@ export const Navbar: React.FC = () => {
 
         {user ? (
           <div className="flex items-center gap-3">
-            <div className="hidden sm:flex flex-col text-right">
+            <Link to="/profile" className="hidden sm:flex flex-col text-right hover:opacity-80 transition-opacity">
               <span className="text-xs font-bold text-slate-900 dark:text-stone-200 leading-tight">{user.full_name}</span>
               <span className="text-[10px] text-slate-500 dark:text-stone-400 tracking-tight">{user.email}</span>
-            </div>
-            <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-amber-500/20 to-amber-400/20 border border-amber-500/40 flex items-center justify-center text-amber-600 dark:text-amber-300 font-bold text-xs shadow-inner">
-              {user.full_name.charAt(0)}
-            </div>
+            </Link>
+            <Link to="/profile" title="View Profile & Settings">
+              <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-amber-500/20 to-amber-400/20 border border-amber-500/40 flex items-center justify-center text-amber-600 dark:text-amber-300 font-bold text-xs shadow-inner hover:scale-105 transition-transform cursor-pointer">
+                {user.full_name.charAt(0)}
+              </div>
+            </Link>
             <Button
               variant="ghost"
               size="sm"
