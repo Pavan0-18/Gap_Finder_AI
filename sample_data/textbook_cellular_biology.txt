@@ -1,0 +1,36 @@
+PRINCIPLES OF MODERN CELLULAR BIOLOGY
+Volume 4, Academic Press
+
+CHAPTER 1: THE MITOTIC PROCESS AND SOMATIC DIVISION
+Section 1.1: Phases of Mitosis
+Somatic cell proliferation requires that genetic material duplicated in the preceding synthesis phase (S phase) be apportioned equitably between two daughter cells. This nuclear division, mitosis, progresses continuously through five distinct cytologic stages: prophase, prometaphase, metaphase, anaphase, and telophase.
+
+During prophase, chromatin fibers condense into discrete visible chromosomes, each consisting of two identical sister chromatids conjoined at the centromere by cohesin protein complexes. Nucleoli disperse, and the mitotic spindle begins organizing from opposite centrosomes.
+
+In prometaphase, the nuclear envelope fragments into membrane vesicles. Kinetochores, specialized trilaminar protein structures on the centromeric DNA, capture dynamic spindle microtubules extending from polar asters. Chromosomes exhibit saltatory movements until bi-oriented under tension.
+
+Metaphase is defined by the full alignment of all chromosomes along the equatorial metaphase plate. The spindle assembly checkpoint (SAC) monitors unattached kinetochores, arresting anaphase onset until tension verifies amphitelic attachment.
+
+Upon SAC satisfaction, the anaphase-promoting complex/cyclosome (APC/C) triggers the proteolytic cleavage of cohesin by active separase. During Anaphase A, kinetochore microtubules depolymerize, pulling sister chromatids toward opposite spindle poles. In Anaphase B, interpolar microtubules slide past one another, elongating the cell.
+
+Telophase reconstitutes daughter nuclei. Decondensing chromatin is enveloped by new nuclear lamina, and nucleoli reappear. Mitosis concludes with cytokinesis: actin and non-muscle myosin II form a cleavage furrow in animal cells, whereas Golgi-derived vesicles coalesce to build the phragmoplast and cell plate in plant cells.
+
+CHAPTER 2: MEIOTIC DIVISION, CROSSING OVER, AND PLOIDY REDUCTION
+Section 2.1: The Architecture of Meiosis I
+Sexual reproduction hinges on meiosis, a specialized reductional division wherein a diploid parent cell (2n) generates four genetically unique haploid gametes (1n). Unlike mitosis, which features a single round of division following DNA replication, meiosis couples a single replication round with two successive nuclear divisions: Meiosis I and Meiosis II.
+
+Prophase I is notably prolonged and partitioned into five canonical substages. In leptotene, replicated chromosomes condense. In zygotene, homologous maternal and paternal chromosomes recognize each other and assemble the synaptonemal complex, a proteinaceous tripartite ladder stabilizing the homolog bivalents (tetrads).
+
+Pachytene witnesses the exchange of genetic material—crossing over. Endonucleases induce targeted double-strand breaks, allowing non-sister chromatids from paired homologs to recombine at physical crossover points known as chiasmata. This genetic reshuffling decouples linked alleles, producing recombinant chromatids.
+
+In diplotene, the synaptonemal complex degrades, but homologs remain locked together at chiasmata. Finally, during diakinesis, chromosomes reach maximal condensation and the nuclear envelope breaks down.
+
+Section 2.2: The Crucial Segregation Difference Between Mitosis and Meiosis I
+The defining mechanical distinction between Mitosis and Meiosis I occurs at Anaphase I. In Mitosis, kinetochores of sister chromatids attach to opposite spindle poles (bi-orientation), leading directly to sister chromatid separation. 
+
+Conversely, in Meiosis I, both sister kinetochores of a single chromosome attach to microtubules emanating from the SAME spindle pole (mono-orientation). Protected by shugoshin proteins at the centromere, cohesin along the chromosome arms is cleaved while centromeric cohesin remains intact. 
+
+Consequently, in Anaphase I, homologous chromosome pairs disjoin and migrate to opposite poles, while sister chromatids remain physically united. This reductional segregation halves the chromosome number from diploid (2n) to haploid (1n), although each chromosome still comprises two chromatids.
+
+Section 2.3: Meiosis II and Chromatid Disjunction
+Following a brief interkinesis devoid of DNA replication, cells enter Meiosis II, which proceeds analogously to an equational mitotic division. Sister kinetochores bi-orient to opposite poles. Centromeric cohesin degrades, and Anaphase II separates sister chromatids into four distinct haploid nuclei.

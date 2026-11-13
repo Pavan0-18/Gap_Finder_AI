@@ -1,0 +1,34 @@
+COURSE SYLLABUS: ADVANCED CELLULAR AND MOLECULAR BIOLOGY
+Course Code: BIO-301
+Academic Term: 2024-2025
+
+UNIT 1: CELLULAR ARCHITECTURE AND DIVISION MECHANICS
+Chapter 1: The Eukaryotic Cell Cycle and Mitosis
+- Overview of the cell cycle phases: G1, S phase (DNA replication), G2, and M phase.
+- Stages of Mitosis: Prophase, Prometaphase, Metaphase, Anaphase, Telophase.
+- Spindle apparatus assembly, kinetochore microtubule attachments, and chromosome alignment along the metaphase plate.
+- Cytokinesis mechanisms: contractile ring in animal cells versus cell plate formation in plant cells.
+- Learning Objectives:
+  * Describe the morphological transformations in each phase of mitosis.
+  * Contrast cytokinesis mechanisms across animal and plant kingdoms.
+  * Identify checkpoints regulating the cell cycle (G1/S, G2/M, spindle assembly).
+
+Chapter 2: Meiotic Division and Sexual Reproduction
+- Meiosis I: Prophase I sub-stages (leptotene, zygotene, pachytene, diplotene, diakinesis), synaptonemal complex, and chiasmata.
+- Crossing over between non-sister chromatids of homologous chromosomes and genetic recombination.
+- Anaphase I segregation: separation of homologous chromosome pairs with sister chromatids remaining joined.
+- Meiosis II: separation of sister chromatids resulting in four non-identical haploid gametes.
+- Non-disjunction errors and aneuploidy conditions.
+- Learning Objectives:
+  * Distinguish the chromosome behavior of Meiosis I from that of Mitosis.
+  * Explain how crossing over and independent assortment generate genetic diversity.
+  * Analyze the phenotypic consequences of meiotic non-disjunction.
+
+UNIT 2: GENETIC INHERITANCE AND MOLECULAR REGULATION
+Chapter 3: Mendelian Genetics and Chromosomal Basis of Inheritance
+- Monohybrid and dihybrid crosses, law of segregation, law of independent assortment.
+- Incomplete dominance, codominance, and sex-linked traits.
+- Pedigree analysis and genetic probability calculations.
+- Learning Objectives:
+  * Solve multigenic inheritance ratios using Punnett squares.
+  * Trace X-linked recessive mutations through human pedigrees.

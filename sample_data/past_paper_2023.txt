@@ -1,0 +1,18 @@
+ANNUAL UNIVERSITY EXAMINATION 2023
+Course: Advanced Cellular and Molecular Biology (BIO-301)
+Time Allowed: 3 Hours
+Total Marks: 100
+
+SECTION A: CELL DIVISION MECHANICS
+
+Question 1. [2 marks]
+Name the substage of Meiotic Prophase I in which crossing over occurs, and identify the physical structures visible under light microscopy where genetic exchange occurred.
+
+Question 2. [5 marks]
+Compare and contrast the mechanical events of Anaphase during Mitosis with Anaphase I of Meiosis. Address kinetochore orientation, cohesin degradation, and the segregation of sister chromatids versus homologous pairs.
+
+Question 3. [3 marks]
+Explain why plant cells cannot undergo cytokinesis via an actin contractile cleavage furrow, and describe the alternative structure assembled by the plant cell.
+
+Question 4. [5 marks]
+A human spermatocyte undergoes meiotic non-disjunction of chromosome 21 during Meiosis I. Deduce the chromosomal composition of the resulting four gametes and state the clinical condition associated with this event upon fertilization.

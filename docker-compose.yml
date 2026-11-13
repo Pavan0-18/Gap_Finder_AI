@@ -1,0 +1,45 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: gapfinder_pgvector
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgrespassword
+      POSTGRES_DB: gapfinder
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: gapfinder_backend
+    restart: always
+    environment:
+      DATABASE_URL: postgresql+psycopg2://postgres:postgrespassword@db:5432/gapfinder
+      LLM_PROVIDER: ${LLM_PROVIDER:-deterministic}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER:-deterministic}
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      SECRET_KEY: ${SECRET_KEY:-gapfinder-docker-secret-key-32charsmin}
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: gapfinder_frontend
+    restart: always
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

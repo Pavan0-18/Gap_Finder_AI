@@ -1,0 +1,18 @@
+ANNUAL UNIVERSITY EXAMINATION 2024
+Course: Advanced Cellular and Molecular Biology (BIO-301)
+Time Allowed: 3 Hours
+Total Marks: 100
+
+SECTION A: CORE CONCEPTS
+
+Question 1. [2 marks]
+Identify the protein complex responsible for holding sister chromatids together from S phase through metaphase, and name the specific enzyme responsible for its cleavage at anaphase onset.
+
+Question 2. [5 marks]
+Describe the role of the spindle assembly checkpoint (SAC) during metaphase, and explain the cytological consequence if a cell enters anaphase with unattached kinetochores.
+
+Question 3. [5 marks]
+During Meiosis I, explain how mono-orientation of sister kinetochores and centromeric shugoshin protection ensure the segregation of homologous chromosomes rather than individual chromatids.
+
+Question 4. [3 marks]
+State three distinct mechanisms operative during sexual reproduction that contribute to genetic variation among offspring.

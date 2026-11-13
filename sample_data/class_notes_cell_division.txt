@@ -1,0 +1,22 @@
+LECTURE NOTES: CELL DIVISION MECHANISMS & EXAM SHORTCUTS
+Instructor: Dr. Eleanor Vance
+
+KEY TAKEAWAYS FOR REVISION:
+1. Centromere vs Kinetochore:
+   - Centromere is the DNA constriction region.
+   - Kinetochore is the multi-protein complex built on top of the centromere that directly captures microtubules.
+   - Common student mistake: saying spindle fibers bind directly to centromeric DNA. They bind kinetochores!
+
+2. Mitosis vs Meiosis I Segregation:
+   - MITOSIS ANAPHASE: Sister chromatids separate. Number of chromosomes temporarily doubles in the cell (from 46 to 92 chromatids/chromosomes).
+   - MEIOSIS ANAPHASE I: Homologous pairs separate. Sister chromatids DO NOT SEPARATE. Cell goes from 2n -> 1n.
+   - MEIOSIS ANAPHASE II: Sister chromatids separate (like mitosis, but in a haploid cell).
+
+3. Genetic Variation Drivers:
+   - Crossing over in Prophase I (Pachytene sub-stage).
+   - Independent assortment of maternal and paternal homologs at the Metaphase I plate (2^n combinations).
+   - Random fertilization of gametes.
+
+4. Cytokinesis Differences:
+   - Animal cells: Microfilament cleavage furrow pinch.
+   - Plant cells: Rigid cellulose wall prevents pinching. Phragmoplast vesicles fuse to form the cell plate from inside out.
